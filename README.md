@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Victor, a full-time python developer 👨‍💻 interested in Big Data and AI technologies 🚀</div>  
+## <div align="center">I'm Victor, a full-time python developer 👨‍💻 interested in Big Data and AI technologies 🚀</div>  
   
 
-- 🔭 I’m currently working as data acquisitor on [uDA](https://www.urbandataanalytics.com/)  
+- ### 🔭 I’m currently working as data acquisitor on [uDA](https://www.urbandataanalytics.com/)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- ### 🌱 I’m currently learning Hyperledger and Kubernetes  
   
 
-- ❓ Ask me about anything related to ETL and data technologies  
+- ### ❓ Ask me about anything related to ETL and data technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ### ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
