@@ -1,4 +1,4 @@
-### <div align="center">I'm Victor, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Victor, a proffesional web scraper, specialised on real estate 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [uDA](https://www.urbandataanalytics.com/)
