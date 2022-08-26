@@ -1,7 +1,7 @@
 ## <div align="center">I'm Victor, a proffesional web scraper, specialised on real estate 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [uDA](https://www.urbandataanalytics.com/)
+-<h3> 🔭 I’m currently working on [uDA](https://www.urbandataanalytics.com/)
   
 
 - 🌱 I’m currently learning Google Cloud
@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to web scraping and Big Data technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces  </h3>
   
 
 <br/>  
