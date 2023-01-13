@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to web scraping and Big Data  
   
 
-- ⚡ Fun fact: I use tabs over spaces
+- ⚡ Freak fact: In my free time, I enjoy participating in hackathons and coding competitions
   
 
 <br/>  
