@@ -1,7 +1,7 @@
 ## <div align="center">I'm Victor, a proffesional web scraper, specialised on real estate 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [uDA](https://www.urbandataanalytics.com/)
+- 🔭 I’m currently working on [uDA](https://www.urbandataanalytics.com/) as a web scraper
   
 
 - 🌱 I’m currently learning Backend frameworks (Django, Flask and Fastapi)
