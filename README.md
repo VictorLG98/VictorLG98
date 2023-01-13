@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on [uDA](https://www.urbandataanalytics.com/)
   
 
-- 🌱 I’m currently learning Google Cloud
+- 🌱 I’m currently learning Backend frameworks (Django, Flask and Fastapi)
 
 
-- ❓ Ask me about anything related to web scraping and Big Data technologies  
+- ❓ Ask me about anything related to web scraping and Big Data  
   
 
 - ⚡ Fun fact: I use tabs over spaces
