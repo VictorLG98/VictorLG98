@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/victorlg98](https://dev.to/victorlg98)
 
-- 💬 Ask me about **Ask me about anything related to web scraping, big data, AI...**
+- 💬 Ask me about **anything related to web scraping, big data, AI...**
 
 - 📫 How to reach me **https://linktr.ee/victorlg**
 
