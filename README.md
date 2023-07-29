@@ -1,13 +1,9 @@
-## <div align="center">I'm Victor, a proffesional software developer, specialised on web scraping 👨‍💻 🚀</div>  
-  
+## <div align="center">I'm Victor, a proffesional software developer, specialised on web scraping 👨‍💻 🚀</div>    
 
-- 🔭 I’m currently working on [uDA](https://www.urbandataanalytics.com/) as web scraper
-  
-
-- 🌱 I’m currently learning Backend frameworks (Django, Flask and Fastapi)
+- 🌱 I’m currently learning Playwright framework
 
 
-- ❓ Ask me about anything related to web scraping and Big Data  
+- ❓ Ask me about anything related to web scraping, big data, AI...
   
 
 - ⚡ Freak fact: In my free time, I enjoy participating in hackathons and coding competitions
