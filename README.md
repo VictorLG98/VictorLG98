@@ -158,7 +158,7 @@ Interactive retail sales analytics dashboard for exploring and visualizing sales
   <a href="https://github.com/VictorLG98"><img src="https://skillicons.dev/icons?i=github"/></a>
   <a href="mailto:vlozoyag01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   <!-- Añade tu URL real de LinkedIn abajo 👇 -->
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/victorlg98"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 <p align="center">
