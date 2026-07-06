@@ -107,12 +107,12 @@ Your Claude Code usage, **Spotify-Wrapped style**. Zero-dependency CLI that turn
   <tr>
   <td width="50%" valign="top">
 
-### 🏠 [House Price Scraping](https://github.com/VictorLG98/House-Price-Scraping)
-Bot that scrapes a real-estate site with **Selenium + BeautifulSoup**, extracts the relevant fields and auto-fills a custom form.
+### 📼 [tracebox](https://github.com/VictorLG98/tracebox)
+Local-first recorder for **Claude Code** sessions — turns each run into an auditable timeline with a **claims-vs-reality** panel. 100% local, published on npm.
 
-`Python` `Selenium` `Scraping`
+`TypeScript` `CLI` `Claude Code`
 
-[Code](https://github.com/VictorLG98/House-Price-Scraping)
+[Code](https://github.com/VictorLG98/tracebox)
 
   </td>
   <td width="50%" valign="top">
