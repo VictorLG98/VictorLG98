@@ -86,7 +86,7 @@ class Victor:
     <td width="50%" valign="top">
 
 ### 🌍 [Geopolitiqué](https://github.com/VictorLG98/geopolitique)
-Full-stack geopolitics analysis platform: **Next.js** frontend + **FastAPI** backend, rich-text editor, newsletter with transactional emails and PostgreSQL.
+Full-stack geopolitics analysis blog: **Next.js** frontend + **FastAPI** backend, rich-text editor, newsletter with transactional emails and PostgreSQL.
 
 `TypeScript` `FastAPI` `Next.js` `PostgreSQL`
 
