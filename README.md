@@ -107,7 +107,7 @@ Your Claude Code usage, **Spotify-Wrapped style**. Zero-dependency CLI that turn
   <tr>
   <td width="50%" valign="top">
 
-### 📼 [tracebox](https://github.com/VictorLG98/tracebox)
+### 📼 [Tracebox](https://github.com/VictorLG98/tracebox)
 Local-first recorder for **Claude Code** sessions — turns each run into an auditable timeline with a **claims-vs-reality** panel. 100% local, published on npm.
 
 `TypeScript` `CLI` `Claude Code`
