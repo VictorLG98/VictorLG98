@@ -117,12 +117,12 @@ Local-first recorder for **Claude Code** sessions — turns each run into an aud
   </td>
   <td width="50%" valign="top">
 
-### 📊 [Retail Sales Dashboard](https://github.com/VictorLG98/Retail-Sales-Dashboard-Design)
-Interactive retail sales analytics dashboard for exploring and visualizing sales data.
+### 🏛️ [Anamnesis](https://github.com/VictorLG98/anamnesis)
+Legal RAG over Spanish legislation (BOE): hybrid retrieval (dense + BM25 + RRF), cross-encoder reranking, and citation-grounded generation — swappable between Claude and a free local LLM (Ollama).
 
-`Python` `Data` `Dashboard`
+`Python` `FastAPI` `RAG` `ChromaDB`
 
-[Code](https://github.com/VictorLG98/Retail-Sales-Dashboard-Design)
+[Code](https://github.com/VictorLG98/anamnesis)
 
   </td>
   </tr>
