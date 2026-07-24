@@ -95,12 +95,12 @@ Full-stack geopolitics analysis blog: **Next.js** frontend + **FastAPI** backend
   </td>
   <td width="50%" valign="top">
 
-### 🎁 [Claude Code Wrapped](https://github.com/VictorLG98/claude-code-wrapped)
-Your Claude Code usage, **Spotify-Wrapped style**. Zero-dependency CLI that turns local transcripts into an animated, shareable report — 100% offline.
+### 📦 [ERP Inventario](https://github.com/VictorLG98/erp-inventario)
+Modular ERP built end-to-end with **TDD** — Deliverable 1: shared core (JWT auth, **RBAC**, audit log) + full **inventory** module: products, stock, transactional movements, CSV import/export and a KPI dashboard.
 
-`Node.js` `CLI` `Data Viz`
+`FastAPI` `Next.js` `PostgreSQL` `Docker`
 
-[Code](https://github.com/VictorLG98/claude-code-wrapped)
+[Code](https://github.com/VictorLG98/erp-inventario)
 
   </td>
   </tr>
